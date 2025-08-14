@@ -63,7 +63,7 @@ export const seedDatabase = async () => {
         question: "Which is management?",
         options: ["Planning", "Dividing", "Subtracting"],
         correctAnswer: "Planning",
-        course: "Management Basics",
+        course: "Management",
         topic: "Principles",
         dueDate: new Date("2025-12-25T14:00:00Z"),
       },
